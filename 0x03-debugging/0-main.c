@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * mqin -Test function for positive or negative
- *Reurn: 0
+ * main -Test function for positive or negative
+ * Return: 0
  */
 
 int main(void)

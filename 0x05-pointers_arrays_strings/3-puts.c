@@ -7,7 +7,7 @@
  * Return: str
  */
 
-void _put5s(char *str)
+void _puts(char *str)
 {
 	int i = 0;
 

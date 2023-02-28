@@ -2,13 +2,13 @@
 
 /**
  * print_rev - Entry point
- * Description: function that prints a string, in reverse, followed by a new line.
+ * Description: prints a string, in reverse, followed by a new line.
  * @s: integer
  * Return: char
  */
 void print_rev(char *s)
 {
-	int i =0;
+	int i = 0;
 
 	while (s[i])
 	{

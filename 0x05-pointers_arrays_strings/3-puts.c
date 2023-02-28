@@ -3,7 +3,7 @@
 /**
  * _puts - Entry point
  * Description: function that prints a string, followed by a new line
- * *str: string data type
+ * @str: string data type
  * Return: str
  */
 

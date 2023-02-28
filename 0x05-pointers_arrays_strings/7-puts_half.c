@@ -3,7 +3,7 @@
 /**
  * puts_half - Entry point
  * Description: Print the second half of the string
- * @str - Data type
+ * @str: Data type
  * Return: string
  */
 void puts_half(char *str)

@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
  * print_array - Entry point
  * Description: dunction that print n element
@@ -18,6 +19,6 @@ void print_array(int *a, int n)
 		{
 			printf(", ");
 		}
-	}		
+	}
 	printf("\n");
 }

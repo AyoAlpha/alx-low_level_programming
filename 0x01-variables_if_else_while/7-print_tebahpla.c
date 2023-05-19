@@ -1,19 +1,18 @@
 #include <stdio.h>
 
 /**
- * main - Entry Point
+ * main - entry Point
  * Return: Always 0
  */
+
 int main(void)
 {
-	int x;
+	int x = 'z';
 
-	x = '0';
-
-	while (x <= '9')
+	while (x >= 'a')
 	{
 		putchar(x);
-		x++;
+		x--;
 	}
 	putchar('\n');
 	return (0);

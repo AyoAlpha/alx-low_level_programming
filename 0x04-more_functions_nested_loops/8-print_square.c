@@ -20,13 +20,9 @@ void print_square(int size)
 		{
 			for (y = 0; y < size; y++)
 			{
-				if (y == x)
-					_putchar(' ');
-				else if (y < x)
-					_putchar(x);
+				_putchar('#');
 			}
-			_putchar('#');
+			_putchar('\n');
 		}
-		_putchar('\n');
 	}
 }

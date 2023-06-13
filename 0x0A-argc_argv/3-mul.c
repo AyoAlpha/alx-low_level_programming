@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - Entry point 
+ * main - Entry point
  * @argc:  argument to count
  * @argv: argument vector
  * Return: 0 on success
